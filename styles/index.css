@@ -1,0 +1,14 @@
+
+@import url("edit.css?v={random number/string}");
+
+
+
+
+body{
+
+	background-image: url('Diwan.jpg');
+	background-size:cover;	
+	width:100%;
+
+}
+
